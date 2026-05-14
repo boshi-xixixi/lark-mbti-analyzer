@@ -399,12 +399,6 @@ lark-cli auth login --scope im:message,contact:contact,im:chat
 - 飞书 CLI 团队提供的强大工具
 - 所有贡献者和使用者
 
-## 📞 联系方式
-
-- 📧 Email: [你的邮箱]
-- 💬 飞书：[你的飞书号]
-- 🐛 Issues: [GitHub Issues](https://github.com/boshi-xixixi/lark-mbti-analyzer/issues)
-
 ---
 
 **Made with ❤️ by MBTI Analyzer Team**
